@@ -1,6 +1,7 @@
 #include <iostream>
 #include <memory>
 #include <string>
+
 class Entity
 {
 public:
